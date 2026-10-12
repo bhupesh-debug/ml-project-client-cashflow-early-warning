@@ -7,10 +7,10 @@
 [![PyTest Status](https://img.shields.io/badge/Tests-9%2F9%20Passing-brightgreen.svg)](tests/)
 [![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn%201.9-orange.svg)](https://scikit-learn.org/)
 
-**Author:** [Bhupesh Chandra Dimri](mailto:bhupesh.d@itjobdesire.com)  
+**Author:** [Bhupesh Chandra Dimri](mailto:bhupesh7cd@gmail.com)  
 **Target Role:** Finance Manager (10X360 Platform Review)  
 **Target Company:** Cardone Ventures — Scottsdale, AZ (Fully On-Site)  
-**Live Interactive Portfolio Demo:** [https://bdimri.github.io/job-description-ml-project/](https://bdimri.github.io/job-description-ml-project/)
+**Live Interactive Portfolio Demo:** [https://bhupesh-debug.github.io/ml-project-client-cashflow-early-warning/](https://bhupesh-debug.github.io/ml-project-client-cashflow-early-warning/)
 
 ---
 
@@ -138,8 +138,8 @@ job-description-ml-project/
 ### Quickstart Commands
 ```bash
 # 1. Clone repository
-git clone https://github.com/bdimri/job-description-ml-project.git
-cd job-description-ml-project
+git clone https://github.com/bhupesh-debug/ml-project-client-cashflow-early-warning.git
+cd ml-project-client-cashflow-early-warning
 
 # 2. Create virtual environment
 python -m venv venv
