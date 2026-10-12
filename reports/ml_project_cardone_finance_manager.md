@@ -388,3 +388,12 @@ client-cash-flow-early-warning/
 3. *"What is the current standard operating procedure for standardizing messy QuickBooks files during the first 30 days of the platform journey?"*
 4. *"How do the top-performing Finance Managers balance their time between technical Excel modeling and high-energy client presentation at live Scottsdale events?"*
 5. *"Cardone Ventures values transparent, results-oriented execution. What does a Finance Manager who is earning top-tier uncapped commissions do differently than an average performer?"*
+
+---
+
+## Candidate Contact & Portfolio
+- **Candidate:** Bhupesh Chandra Dimri
+- **Email:** [bhupesh7cd@gmail.com](mailto:bhupesh7cd@gmail.com)
+- **Phone:** 917-818-6198
+- **GitHub:** [https://github.com/bhupesh-debug](https://github.com/bhupesh-debug)
+- **Target Role:** Finance Manager (10X360 Platform Review) — Cardone Ventures (Scottsdale, AZ)

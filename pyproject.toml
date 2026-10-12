@@ -7,7 +7,7 @@ name = "cardone-platform-cashflow-guard"
 version = "1.0.0"
 description = "Predictive 13-Week Cash Flow & Daily Cash Target Breach Engine for SMB Platform Review Advisory"
 authors = [
-  { name = "Bhupesh Chandra Dimri", email = "bhupesh.d@itjobdesire.com" }
+  { name = "Bhupesh Chandra Dimri", email = "bhupesh7cd@gmail.com" }
 ]
 readme = "README.md"
 requires-python = ">=3.10"

@@ -186,7 +186,7 @@ python -m http.server 8000 --directory docs/
 **Bhupesh Chandra Dimri**  
 *MS in Accounting Analytics & Data Technology, Pace University (NYC)*  
 *MBA in Finance & Accounting | B.Com*  
-- **Email:** [bhupesh.d@itjobdesire.com](mailto:bhupesh.d@itjobdesire.com)  
-- **Phone:** (201) 305-0663  
+- **Email:** [bhupesh7cd@gmail.com](mailto:bhupesh7cd@gmail.com)  
+- **Phone:** 917-818-6198  
 - **Location:** Open to Full On-Site Relocation to Scottsdale, AZ  
 - **Target Mandate:** Finance Manager (Platform Review), Cardone Ventures  
