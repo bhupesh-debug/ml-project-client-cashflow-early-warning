@@ -1,0 +1,62 @@
+{
+  "cross_validation": {
+    "reg_cv_mae_mean": 295122.84,
+    "reg_cv_mae_std": 189211.8,
+    "clf_cv_roc_mean": 0.9986,
+    "clf_cv_roc_std": 0.002
+  },
+  "regression": {
+    "Naive_Rolling_RunRate": {
+      "MAE": 342894.2,
+      "RMSE": 500514.53,
+      "R2": 0.8262,
+      "MDA": 0.8936,
+      "MAPE": 217.11
+    },
+    "Ridge_Linear": {
+      "MAE": 360339.35,
+      "RMSE": 505737.8,
+      "R2": 0.8226,
+      "MDA": 0.9443,
+      "MAPE": 192.44
+    },
+    "HistGradientBoosting_Ensemble": {
+      "MAE": 263271.62,
+      "RMSE": 385354.51,
+      "R2": 0.897,
+      "MDA": 0.9564,
+      "MAPE": 130.07
+    }
+  },
+  "classification": {
+    "Heuristic_Rule": {
+      "Accuracy": 0.9943,
+      "Precision": 0.9859,
+      "Recall": 1.0,
+      "F1": 0.9929,
+      "ROC_AUC": 1.0,
+      "PR_AUC": 1.0,
+      "Brier_Score": 0.0044
+    },
+    "Logistic_Regression": {
+      "Accuracy": 0.9979,
+      "Precision": 0.9964,
+      "Recall": 0.9982,
+      "F1": 0.9973,
+      "ROC_AUC": 1.0,
+      "PR_AUC": 1.0,
+      "Brier_Score": 0.0043
+    },
+    "HistGradientBoosting_Ensemble": {
+      "Accuracy": 1.0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "ROC_AUC": 1.0,
+      "PR_AUC": 1.0,
+      "Brier_Score": 0.0001
+    }
+  },
+  "test_sample_size": 1400,
+  "feature_count": 22
+}

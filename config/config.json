@@ -1,0 +1,25 @@
+{
+  "project_name": "cardone-platform-cashflow-guard",
+  "version": "1.0.0",
+  "random_seed": 42,
+  "data": {
+    "num_companies": 120,
+    "weeks_history": 104,
+    "start_date": "2024-01-01",
+    "raw_data_path": "data/sample/raw_platform_cashflow_sample.csv",
+    "processed_data_path": "data/sample/processed_features.csv",
+    "models_dir": "reports/models"
+  },
+  "training": {
+    "train_split_ratio": 0.70,
+    "val_split_ratio": 0.15,
+    "test_split_ratio": 0.15,
+    "n_cv_splits": 5,
+    "regression_target": "target_13wk_net_cash_flow",
+    "classification_target": "target_target_breach_45d"
+  },
+  "business_defaults": {
+    "daily_cash_target_buffer_days": 60,
+    "critical_breach_threshold_prob": 0.40
+  }
+}
